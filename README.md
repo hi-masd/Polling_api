@@ -1,5 +1,5 @@
-# PollingAPI
-API for Polling Questions - Coding Ninjas Backend Skill Test Project
+# Polling_api
+
 
 Task: Need to create an API where anyone can create questions with options and also add votes to it
 
